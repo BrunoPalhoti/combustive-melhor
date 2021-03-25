@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Combustivel</string>
+    <string name="precoAlcool">Preço do Alcool</string>
+    <string name="precoGasolina">Preço da Gasolina</string>
+    <string name="km_Litro_Alcool">km/Litro de Alcool</string>
+    <string name="km_Litro_Gasolina">km/Litro de Gasolina</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnSair">Sair</string>
+    <string name="abastecer">Melhor abastecer com:</string>
+    <string name="melhor_combustivel" />
+    <string name="limpar">Limpas</string>
+</resources>
